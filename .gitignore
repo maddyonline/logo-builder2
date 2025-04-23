@@ -46,5 +46,5 @@ agenthub/agents/youtube/db
 venv/
 .venv/
 __pycache__/
-.env
+
 
